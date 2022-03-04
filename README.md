@@ -10,7 +10,8 @@
 <h1>Skills<img  src="https://media.giphy.com/media/fAcQ7d1Hnx2XlY6SMe/giphy.gif"  style="padding-left:20px" width="75"></h1>
 <br/>
 
- **Technologies** <img alt="php" width="50px" src="https://img.icons8.com/color/480/000000/php.png"/>|<img alt="laravel" width="50px" src="https://img.icons8.com/fluency/344/00000/laravel.png"/>|<img alt="Vue" width="40px" src="https://img.icons8.com/color/344/0000/vue-js.png"/>|<img alt="MongoDB" width="40px" src="https://img.icons8.com/color/480/000000/mongodb.png"/>|<img alt="SQL" width="40px" src="https://img.icons8.com/ios-filled/100/000000/sql.png"/>|<img alt="Bootstrap" width="40px" src="https://img.icons8.com/color/50/000000/bootstrap.png"/>|<img alt="HTML5" width="40px" src="https://img.icons8.com/color/480/000000/html-5.png"/>|<img alt="Css3" width="40px" src="https://img.icons8.com/color/480/000000/css3.png"/>
+ **Technologies** 
+<img alt="php" width="50px" src="https://img.icons8.com/color/480/000000/php.png"/>|<img alt="laravel" width="50px" src="https://img.icons8.com/fluency/344/00000/laravel.png"/>|<img alt="Vue" width="40px" src="https://img.icons8.com/color/344/0000/vue-js.png"/>|<img alt="MongoDB" width="40px" src="https://img.icons8.com/color/480/000000/mongodb.png"/>|<img alt="SQL" width="40px" src="https://img.icons8.com/ios-filled/100/000000/sql.png"/>|<img alt="Bootstrap" width="40px" src="https://img.icons8.com/color/50/000000/bootstrap.png"/>|<img alt="HTML5" width="40px" src="https://img.icons8.com/color/480/000000/html-5.png"/>|<img alt="Css3" width="40px" src="https://img.icons8.com/color/480/000000/css3.png"/>
  |--|--|--|--|--|--|--|--|
 <br/>
 
