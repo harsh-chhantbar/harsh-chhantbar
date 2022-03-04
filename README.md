@@ -1,5 +1,5 @@
 
-<h1>Hi there, I am Harsh Chhantbar 🙋 ️</h1> 
+<h1>Hi there, I am Harsh Chhantbar 🙋🏻‍♂️ ️</h1> 
 
 <img align='right' src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="230">
 
