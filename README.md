@@ -1,12 +1,14 @@
 
-<h2>Hi!, I am Harsh Chhantbar 🙋🏻‍ </h2> 
-<img align='right' src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="100">
+## Hi! I'm Harsh Chhantbar 🙋🏻‍♂️
+<img align="right" src="https://media.giphy.com/media/H7AmqyARFEc7S1Smtl/giphy.gif" width="100">
 
-<br/>
-<p>I am a dedicated and enthusiastic person who loves to learn new things and do the best at what I work on. Currently working as full stack developer with industry building websites and web applications. I specialise in PHP - Laravel, Golang have professional experience working with Laravel, Golang and Vue Js. My core areas of interest are website development and database design.</p> 
+I'm a passionate full stack developer with a strong drive to learn and excel. Currently, I work in the industry building websites and web applications, specializing in PHP (Laravel), Golang, and JavaScript. My main interests include website development and database design. 
 
- <h4>Get In Touch</h4>
+My professional experience covers the entire web development lifecycle, including designing and developing scalable web applications and RESTful APIs, managing databases such as MySQL and PostgreSQL, and deploying solutions using CI/CD pipelines. I am skilled in optimizing database performance, collaborating with cross-functional teams, and delivering high-quality, maintainable software. In addition to backend expertise, I have hands-on experience with front-end technologies like React.js, and I'm passionate about writing clean, efficient code and always look for ways to make things better.
 
-[<img align="left" alt="LinkedIn - Harsh Chhantbar" width="35px" src="https://img.icons8.com/fluent/96/000000/linkedin.png"/>](https://www.linkedin.com/in/harsh-chhantbar) 
-[<img align="left" alt="Email - Harsh Chhantbar" width="30px" src="https://img.icons8.com/cute-clipart/64/000000/upload-mail.png" />](mailto:hchhatbar86@gmail.com) 
-<br/>
+I would welcome the chance to discuss how my experience aligns with your goals and how I can support your continued success.
+
+### Get In Touch
+
+[![LinkedIn - Harsh Chhantbar](https://img.icons8.com/fluent/96/000000/linkedin.png)](https://www.linkedin.com/in/harsh-chhantbar)
+[![Email - Harsh Chhantbar](https://img.icons8.com/cute-clipart/64/000000/upload-mail.png)](mailto:hchhatbar86@gmail.com)
